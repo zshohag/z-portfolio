@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 35px;
+   
+}
+
+.z1 {
+     
+    color: springgreen;
+    
+}
+
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 20px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+
+.zbutton {
+    text-decoration: none;
+    font-size: ;
+    padding: 10px 40px;
+    border-radius: 3px;
+    background-image: linear-gradient(orange,red);
+}
