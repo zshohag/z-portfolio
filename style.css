@@ -31,6 +31,7 @@ h1{
 .half-width {
     width: 50%;
     margin-bottom: 250px;
+    padding:30px;
 }
 
 .half-width img {
@@ -67,10 +68,50 @@ h1{
 
 }
 
+.z6 {
+    padding: 10px;
+}
 
-.exp {
-    
+.exp_flexiable-container{
+
     display: flex;
-     
+    padding: 10px;
+    margin-bottom: 150px;
 
 }
+.exp-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+#web-dev-experience {
+
+
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan) ;
+    border-image-slice: 1;
+
+}
+
+#full-dev-experience {
+
+ 
+    border-left: 7px solid;
+    border-image: linear-gradient(pink,violet) ;
+    border-image-slice: 1;
+
+
+
+}
+
+
+footer p {
+    text-align: center;
+}
+
+
+
