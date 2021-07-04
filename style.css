@@ -16,7 +16,7 @@ h1{
 }
 
 
-section.header {
+.flexiable-container {
     display: flex;
      background-image: url(images/photo-1579546929518-9e396f3cc809.jpg);
     background-repeat: no-repeat;
@@ -26,6 +26,7 @@ section.header {
     background-size: cover;
     padding: 20px;
 }
+
 
 .half-width {
     width: 50%;
@@ -63,5 +64,13 @@ section.header {
 .secondpart {
     display: flex;
     background-image: url(images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-04.jpg);
+
+}
+
+
+.exp {
+    
+    display: flex;
+     
 
 }
