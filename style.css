@@ -72,6 +72,9 @@ h1{
     padding: 10px;
 }
 
+#zs {
+    text-align: center;
+}
 .exp_flexiable-container{
 
     display: flex;
